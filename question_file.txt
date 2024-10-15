@@ -1,0 +1,211 @@
+                         python quiz
+Question_1
+1. what is the python?
+a. a programming language	b. a database management system	c. a web browser	d. an operating system	
+Answer_1 :- a
+Explnation Of Question_1 :- Python Is High-Level,Interpreted programming language Used For Software Devlopment , Data Science and automation.
+
+Question_2
+2. Who Devloped Python?
+a. James Gosling	b. Gudio van Rossum	c. Dennis Ritchine	d. Brendan Eich	
+Answer_2 :- b
+Explnation Of Question_2 :- Python Was devloped by gudio van rossum in year 1991.
+
+Question_3
+3. what type of language is python?
+a. compiled	b. interpreted	c. assembly	d. machine-level	
+Answer_3 :- b
+Explnation Of Question_3 :- python code is excuted line by line. that means it is a interpreted language.
+
+Question_4
+4. what is the filename extensionfor python file?
+a. .py	b. .pt	c. .pyt	d. .python	
+Answer_4 :- a
+Explnation Of Question_4 :- python scripts are saved with the .py extension.
+
+Question_5
+5. which of the following is a feature of python?
+a. statically typed	b. dynamically typed	c. requires explicit memory management	d. requires compilation	
+Answer_5 :- b
+Explnation Of Question_5 :- python determines the variable types at runtime. that why it dynamically typed.
+
+Question_6
+6. which symbol is used to indicate indentation in python?
+a. {}	b. ()	c. :	d. whitespace	
+Answer_6 :- d
+Explnation Of Question_6 :- python uses indentation (whitespace) to define blocks of code.
+
+Question_7
+7. whatis the used of the print() function?
+a. to take input from users	b. to display output	c. to debug code	d. to create file	
+Answer_7 :- b
+Explnation Of Question_7 :- the print() function is used to display output on the console.
+
+Question_8
+8. which keyword is used to take input from the user?
+a. read()	b. scan()	c. input()	d. enter()	
+Answer_8 :- c
+Explnation Of Question_8 :- the input() function take user input as a string.
+
+Question_9
+9. how do you install extenal libraries in python?
+a. py_get	b. pip install	c. pyhton -lib	d. install packge	
+Answer_9 :- b
+Explnation Of Question_9 :- pip is the package manager for installling pyhton lin=braries.
+
+Question_10
+10. how many key word are there in pyhton?
+a. 33  b. 35	c. 31	d. 36	
+Answer_10 :- b
+Explnation Of Question_10 :- pyhton 3.10+ has 35 keywords. keyword are resrved word that hvae specific meaning in programming.
+
+Question_11
+11. which keyword is used to define a class?
+a. def	b. class	c. struct	d. object	
+Answer_11 :- b
+Explnation Of Question_11 :- the class keyword is used to define a class in pyhton.
+
+Question_12
+12. what is the output of print(2*3**2)?
+a. 36	b. 12	c. 18	d. 15	
+Answer_12 :- c
+Explnation Of Question_12 :- Exponentiation(**) has higher precedence, so 3**2 = 9,then 2*9 = 18. that way answer was 18.
+
+Question_13
+13. which data types is mutable in pyhton?
+a. tuple	b. list	c. string	d. integer	
+Answer_13 :- b
+Explnation Of Question_13 :- list are mutable. meaning their elements can be change after creation.
+
+Question_14
+14. what will be the value of len([1,2,[3,4],5])?
+a. 3	b. 4	c. 5	d. 6	
+Answer_14 :- b
+Explnation Of Question_14 :- the outer list has four elements, in cluding the nested list [3,4].
+
+Question_15
+15. how do you start a comment in pyhton?
+a. //	b. .	c. #	d. /**/	
+Answer_15 :- c
+Explnation Of Question_15 :- pyhton comments start with # symbol.
+
+Question_16
+16. which of these is a valid variable name?
+a. 2name	b. name_2	c. name-2	d. None	
+Answer_16 :- b
+Explnation Of Question_16 :- variable names cannot start with number or contain hyphens.
+
+Question_17
+17. how do you create a dictionary in pyhton?
+a. {}	b. []	c. ()	d. <>	
+Answer_17 :- a
+Explnation Of Question_17 :- Dictionaries are created using curly braces {} with key-value pairs.
+
+Question_18
+18. which perator is used for floor division?
+a. /	b. //	c. %	d. **	
+Answer_18 :- b
+Explnation Of Question_18 :- // performs floor division discarding the decimal part.
+
+Question_19
+19. which method adds an elment to the end of a list?
+a. add()	b. insert()	c. append()	d. pop()	
+Answer_19 :- c
+Explnation Of Question_19 :- the append() method adds an item at the list's end.
+
+Question_20
+20. which function is used to get length of a string?
+a. size()	b. length()	c. len()	d. strlen()	
+Answer_20 :- c
+Explnation Of Question_20 :- len() is used to get length of string or other iterable data types.
+
+                         java quiz
+Question_1
+1. what is the default value of a boolean variable in java?
+a. true	b. false	c. 0	d. null	
+Answer_1 :- b
+Explnation Of Question_1 :- in java, the default value for a boolean variable is false.
+
+Question_2
+2. which keyword is used to inherit a class in java?
+a. implements	b. extends	c. inherits	d. super	
+Answer_2 :- b
+Explnation Of Question_2 :- the extends keyword is used for class inheritince in java.
+
+Question_3
+3. what is the size of an int in java?
+a. 8 bits	b. 16 bits	c. 32 bits	d. 64 bits	
+Answer_3 :- c
+Explnation Of Question_3 :- java used 32bits(4 bytes) to store an int.
+
+Question_4
+4. what is the entery point of a java program?
+a. static void main()	b. public static void	c. void main()	d. public static void main(String[] args)	
+Answer_4 :- d
+Explnation Of Question_4 :- the main method with this exact signature is the entry point for a java pogram.
+
+Question_5
+5. which of these ia a valid identifier in java?
+a. 1name	b. _name	c. name@123	d. for	
+Answer_5 :- b
+Explnation Of Question_5 :- identifiers can't start with a number or use reserved keywords like for.
+
+Question_6
+6. what is the result of 5/2 in java?
+a. 2.5	b. 2	c. 2.0	d. compilation error	
+Answer_6 :- b
+Explnation Of Question_6 :- since both operands are intergers division, discarding the fractional part.
+
+Question_7
+7. what does the final keyword do in java?
+a. make variable overriding	b. enables abstract methods	c. allows variable ovveriding	d. prevents inheritance of a class	
+Answer_7 :- d
+Explnation Of Question_7 :- a class marked with final cannot be extended.
+
+Question_8
+8. which exception is thrown when dividing by zero?
+a. ArithmeticException	b. NullPointerException	c. indexoutOfboundsException	d. IOException	
+Answer_8 :- a
+Explnation Of Question_8 :- Division by zero throws an arithmeticException.
+
+Question_9
+9. which loop guarantess that the body will execute at least once?
+a. for	b. while	c. do-while	d. foreach	
+Answer_9 :- c
+Explnation Of Question_9 :- do-while loop,the body executes at least once before the condition is checked.
+
+Question_10
+10. how are java object created?
+a. by using new	b. by using create	c. by calling init()	d. by using import	
+Answer_10 :- a
+Explnation Of Question_10 :- the new keyword is used to instantiate objects in java.
+
+Question_11
+11. what will be the output of System.out.println("Hello" + 1 + 2);?
+a. Hello3	b. Hello12	c. compilation error	d. 12Hello	
+Answer_11 :- b
+Explnation Of Question_11 :- java evaluates "Hello" + 1 first,resulting in "Hello1",then adds "2".
+
+Question_12
+12. which of the following is not a primitive data type?
+a. int	b. float	c. string	d. char	
+Answer_12 :- c
+Explnation Of Question_12 :- string is a class, not a primitive type.
+
+Question_13
+13. which access modifier allows access from any class?
+a. private	b. public	c. protected	d. defult	
+Answer_13 :- b
+Explnation Of Question_13 :- a public memeber is accessible from any class.
+
+Question_14
+14. how do you declare an array of integers in java?
+a. int arr = new int();	b. int[] arr;	c. int arr{};	d. array int arr;	
+Answer_14 :- b
+Explnation Of Question_14 :- int[] arr is the correct way to declare an integer array.
+
+Question_15
+15. which keyword is userd to handle exceptions in java?
+a. try	b. catch	c. finally	d. all of the above	
+Answer_15 :- d
+Explnation Of Question_15 :- try,catch and finally are all used in exception handling.
